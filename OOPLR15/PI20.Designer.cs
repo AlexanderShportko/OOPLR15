@@ -95,7 +95,7 @@ namespace OOPLR15
             this.radioButton2.Size = new System.Drawing.Size(213, 17);
             this.radioButton2.TabIndex = 5;
             this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "крокодили за деревом не ховаються";
+            this.radioButton2.Text = "крокодили за деревом не ховаються (Городенко)";
             this.radioButton2.UseVisualStyleBackColor = true;
             // 
             // groupBox1
